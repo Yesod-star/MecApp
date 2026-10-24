@@ -1,0 +1,2 @@
+import { Page } from '../../components/ui/bits'
+export default () => <Page title="Privacidade e segurança"><div className="card space-y-2 text-sm text-slate-300"><p>O compartilhamento por placa exige uma credencial exclusiva, diferente da senha da conta, e pode ser revogado em cada veículo.</p><p>Dados pessoais do proprietário nunca aparecem na consulta. Esta é uma demonstração: exportação e exclusão de dados serão implementadas com o backend e a adequação à LGPD.</p></div></Page>
